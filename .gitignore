@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment and config
+.env
+.env.*
+*.env
+*.postgres
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# IDE/project files
+.vscode/
+.idea/
+*.swp
+
+# Database, logs, etc.
+*.db
+*.sqlite3
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Migrations (optional, keep if you want)
+# migrations/
