@@ -8,3 +8,4 @@ bcrypt
 Flask-CORS
 marshmallow
 marshmallow-sqlalchemy
+Flask-Migrate
