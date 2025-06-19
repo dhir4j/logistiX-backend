@@ -1,0 +1,6 @@
+Connecting:
+Use these settings to administer your Postgres server, and to configure your web applications. For security, it may be best to set up individual roles with lower privileges for each of your web applications
+
+Address:hard4j-4630.postgres.pythonanywhere-services.com
+Port:14630
+Superuser role name:super
